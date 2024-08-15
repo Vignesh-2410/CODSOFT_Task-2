@@ -2,7 +2,6 @@
 
 Welcome to the Simple Calculator with Tkinter GUI repository! This Python program creates a basic calculator application with a graphical user interface using the Tkinter library. It allows users to perform simple arithmetic operations.
 
-![Calculator Screenshot](calculator_screenshot.png)
 
 ## Table of Contents
 
@@ -60,5 +59,7 @@ Thanks to the [Python](https://python.org) and [Tkinter](https://docs.python.org
 - [Geeksforgeeks Tutorial](https://www.geeksforgeeks.org/python-gui-tkinter/)
 - [Codemy](https://youtube.com/codemy)
 
+
 # Author
-[Charles Lughas](https://github.com/lordlughas)
+[Vignesh Baddam](https://github.com/Vignesh-2410)
+ 
